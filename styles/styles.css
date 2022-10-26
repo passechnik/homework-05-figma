@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 235;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 120px;
+    isolation: isolate;
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+}
+.denis {
+    width: 970px;
+    height: 387px;
+}
+hr {
+    position: absolute;
+    width: 970px;
+    border: 1px solid #828282;
+}
